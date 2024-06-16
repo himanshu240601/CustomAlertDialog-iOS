@@ -1,0 +1,6 @@
+framework module Pods_CustomAlertDialog_Tests {
+  umbrella header "Pods-CustomAlertDialog_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

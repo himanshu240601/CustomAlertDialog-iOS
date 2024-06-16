@@ -1,0 +1,6 @@
+framework module CustomAlertDialog {
+  umbrella header "CustomAlertDialog-umbrella.h"
+
+  export *
+  module * { export * }
+}

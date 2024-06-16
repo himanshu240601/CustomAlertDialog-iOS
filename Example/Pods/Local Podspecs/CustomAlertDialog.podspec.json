@@ -1,0 +1,22 @@
+{
+  "name": "CustomAlertDialog",
+  "version": "0.1.0",
+  "summary": "A short description of CustomAlertDialog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Himanshu Goyal/CustomAlertDialog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Himanshu Goyal": "goyahim69@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Himanshu Goyal/CustomAlertDialog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CustomAlertDialog/Classes/**/*"
+}
